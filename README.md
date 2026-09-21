@@ -1,11 +1,10 @@
-# 🌷 Mini Project: System Informasi Produk Toko Bunga
+# Mini Project: System Informasi Produk Toko Bunga
 
-**Mata Kuliah:** Pemrograman Web — Pertemuan 2 (Slide 17)  
 **Tujuan:** Manajemen Data Produk Bunga Menggunakan Array Multidimensi & Pemrograman Modular PHP  
 
 ---
 
-## 📁 Struktur Berkas
+## Struktur Berkas
 
 1. `products.php` (Data Layer): Menyimpan array multidimensi produk bunga.
 2. `functions.php` (Processing Layer): Mengalkulasi total aset & cek stok kritis (< 3).
@@ -13,7 +12,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. Buka Terminal pada folder ini:
    `C:\Users\nurul\Documents\rizka_flower_boutique`
